@@ -1,0 +1,13 @@
+ls
+cd Hammer
+python hammer.py
+https://github.com/Pavithran-R/Hammer/ apt update
+apt upgrade
+Устанавливаем языки:
+
+apt install python
+apt install python2
+Устанавливаем git, php:
+
+apt install git
+apt install php
