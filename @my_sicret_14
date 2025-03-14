@@ -1,0 +1,5 @@
+sudo apt install python3-pip
+git clone https://github.com/m0rtem/CloudFail
+cd CloudFail/
+sudo pip3 install -r requirements.txt
+sudo python3 cloudfail.py -u 
